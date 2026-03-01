@@ -1,0 +1,22 @@
+{
+  "top": [
+    {
+      "id": "top-0",
+      "title": "Mock Top Story: भारत में टेक इंडस्ट्री की नई क्रांति",
+      "description": "यह एक डेमो हेडलाइन है जो लेआउट दिखाने के लिए उपयोग की गई है।",
+      "imageUrl": null,
+      "content": "यह एक डेमो कंटेंट है। असली प्रोजेक्ट में यह डेटा NewsAPI से आएगा।",
+      "author": "Demo Reporter",
+      "sourceName": "Mock Source",
+      "publishedAt": "2024-01-01T10:00:00Z",
+      "url": "https://example.com/mock-top-story",
+      "category": "top",
+      "slug": "mock-top-story-0"
+    }
+  ],
+  "general": [],
+  "sports": [],
+  "entertainment": [],
+  "technology": [],
+  "business": []
+}
